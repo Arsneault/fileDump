@@ -1,2 +1,2 @@
 # fileDump
-A place where me and my friends can show off all of our program files.
+A place where my friends and I can dump all of our files.
